@@ -7,3 +7,4 @@ Using the HIF2A dataset (42 ligands), we performed 15 replicates of randomly spl
 
 
 See plot_pcc.ipynb for a (sloppy) notebook that contains code to plot the biasing progression. See the folder POC_WORK for all inputs/code/outputs. ML protocols were run on a system with 4x GTX1080s.
+![](<./POC_PLOT.png>)
