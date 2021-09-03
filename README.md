@@ -1,3 +1,6 @@
+# See folder ./proof-of-concept/
+
+
 # OnionNet
 A multiple-layer inter-molecular contact based deep neural network for protein-ligand binding affinity prediction.
 The testing set is CASF-2013 benchmark and PDBbind v2016 coreset. The protein-ligand binding affinity is directly predicted.
